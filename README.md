@@ -1,7 +1,7 @@
 # Maze-Game
 
 ## Project Description
-Maze-Game is a Python-based game where players navigate through a maze to reach the end goal. The project aims to provide an engaging and challenging experience for users as they solve the maze puzzles.
+Maze-Game is a Python-based project that aims to turn images into mazes, providing an engaging and challenging experience for users as they navigate through the maze puzzles.
 
 ## Features
 - Generating mazes from images
